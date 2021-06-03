@@ -12,17 +12,32 @@ Instructor: [Andrew Ng](http://www.andrewng.org/)
 
 ### Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
 
+  + Week 1: 
+  + Week 2:
+  + Week 3:
+  + Week 4:
 
 ### Course 3: Structuring Machine Learning Projects
 
+  + Week 1: 
+  + Week 2:
+  + Week 3:
+  + Week 4:
 
 ### Course 4: Convolutional Neural Networks
-
+  
+  + Week 1: 
+  + Week 2:
+  + Week 3:
+  + Week 4:
 
   
 ### Course 5: Sequence Models
-
-
+  
+  + Week 1: 
+  + Week 2:
+  + Week 3:
+  + Week 4:
 
 # Disclaimer
 Contect of this specialisation is from coursera. This repo of project files are uploaded to show my work progress and for my back up. Please consider this only as a reference.
